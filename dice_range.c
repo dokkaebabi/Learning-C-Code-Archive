@@ -1,7 +1,6 @@
 // This program reads the number of sides on a set of dice 
 // and how many of them are being rolled
 // Coded by Jemma Chan z5383619 
-// Date: 02/03/2023
 
 #include <stdio.h>
 
